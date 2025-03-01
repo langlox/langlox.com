@@ -2,23 +2,670 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LangLox - The Ultimate Korean Learning Blog</title>
-    <link>https://example.com/</link>
+    <link>http://www.langlox.com/</link>
     <description>Recent content on LangLox - The Ultimate Korean Learning Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Mar 2025 14:31:34 +1100</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.langlox.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Posts are Good</title>
-      <link>https://example.com/posts/posts/</link>
-      <pubDate>Sat, 01 Mar 2025 14:31:34 +1100</pubDate>
+      <title>[REFLECTION] 10 Months &amp; 2000 Hour Learning Korean</title>
+      <link>http://www.langlox.com/posts/a-reflection-on-my-2000-hour-post/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/posts/</guid>
-      <description>&lt;h1 id=&#34;i-love-posts&#34;&gt;I love posts&lt;/h1&gt;
-&lt;p&gt;Do you?&lt;/p&gt;
+      <guid>http://www.langlox.com/posts/a-reflection-on-my-2000-hour-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3 Year Update</title>
+      <link>http://www.langlox.com/posts/test/</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.langlox.com/posts/test/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;This is by far my longest post despite the fact that some people may assume that I would&amp;rsquo;ve made less progress. I think I have improved more overall this year than I did in the previous two. It also goes into more detail than I ever have and hopefully serves as a good glimpse into not just what has happened in the last 12 months but what it actually feels like at my current level - input wise specifically (still can&amp;rsquo;t output lol).&lt;/p&gt;
+&lt;h2 id=&#34;recap&#34;&gt;Recap&lt;/h2&gt;
+&lt;p&gt;It has been another year of learning Korean as of November 21st, 2023.&lt;/p&gt;
+&lt;p&gt;My vocabulary after Year 2 was 13,000 words in Migaku.
+I reached Stage 3C in Refold.
+I read around 20 books in Korean; my comprehension in books (fiction and non fiction) being above 95% for nearly everything I was reading near the end of the year, however still at around 85% comprehension in history texts.
+Last year I had 3 pieces of content with 100% word comprehension - excluding music, extremely short videos, purposefully mining all the vocab, etc.&lt;/p&gt;
+&lt;h2 id=&#34;basic-year-breakdown&#34;&gt;Basic Year Breakdown&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Spent a lot of time with Korean for the rest of 2023 and first week of 2024&lt;/li&gt;
+&lt;li&gt;Took a small break at the start of 2024 before getting back on track&lt;/li&gt;
+&lt;li&gt;Took the entire month of March off&lt;/li&gt;
+&lt;li&gt;Increased workload at school &amp;amp; injury lead me to being more efficient with my Korean time&lt;/li&gt;
+&lt;li&gt;Chose immersion and sleep over Anki as I lacked the energy for it&lt;/li&gt;
+&lt;li&gt;No output for the majority of the year - some attempt at the start of the year and then stopped as I felt it was too mentally taxing and not worth the results&lt;/li&gt;
+&lt;li&gt;Focus switched to listening &amp;amp; watching in the latter half of 2024&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;vocabulary&#34;&gt;Vocabulary&lt;/h1&gt;
+&lt;p&gt;Vocabulary Count as of the 21st of November (Using Kimchi Reader):
+&lt;img src=&#34;21-11-2024.png&#34; alt=&#34;21-11-2024&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Breaking down the 12k vocabulary increase over the year:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1k to 1.5k of that is foreign vocabulary&lt;/li&gt;
+&lt;li&gt;Lots of Sino-Korean vocabulary learnt&lt;/li&gt;
+&lt;li&gt;I mined 3.3k sentences in Year 3 (including audio sentences and occasional 2Ts) - Possibly around 3k new words from cards.
+&lt;ul&gt;
+&lt;li&gt;These 3k words would&amp;rsquo;ve allowed even more words to be learnt fairly easily, mainly if they were Sino-Korean&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Lots of &amp;lsquo;free&amp;rsquo; words&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Throughout my 3rd year my vocabulary growth has been fairly consistent however I decent portion of the vocabulary was learnt from the 21st of Nov, 2023 until the end of February 2024. Even with the break in March I didn&amp;rsquo;t really feel as though I forgot any of the words, if anything I felt as though I had improved going into April. The majority of this vocabulary was solidified fairly easily with input and the occasional Anki usage. That isn&amp;rsquo;t to say I haven&amp;rsquo;t forgotten vocabulary but the amount of vocabulary I have acquired heavily outweighs that of what I have forgotten. When I occasionally run into a forgotten word they are fairly easy to &amp;lsquo;reactivate&amp;rsquo; as well and I believe reactivating vocabulary has gotten easier with time (and as I&amp;rsquo;ve improved).&lt;/p&gt;
+&lt;p&gt;I have read a bit of second language acquisition (SLA) literature that seems to show a relationship between ones level and the number of encounters (specifically through extensive reading although I think this idea could be applied elsewhere) it takes for them to start to learn and then know the word. (If you&amp;rsquo;re interested at this its worth looking into yourself (pls) rather than trusting me, I don&amp;rsquo;t have that much experience with this stuff.) I have personally felt this relationship has been evident in the last 12-18 months of my Korean learning. It takes way less to learn vocabulary than it did. I&amp;rsquo;m sure other areas impact it like my confidence improving, and my knowledge of Chinese characters in the context of learning Sino-Korean vocabulary increasing but those areas may also be influenced by this relationship as well (and what allows for this relationship to occur - the exposure to the language, the intuition and pattern recognition, etc)&lt;/p&gt;
+&lt;p&gt;I won&amp;rsquo;t go into much depth in this post (although if someone wants it I am willing to write my thoughts on it in the future) about Sino-Korean words and Hanja (Chinese Characters) and how that has impacted my vocabulary and allowed for easier vocabulary growth but I do believe that the majority of my vocabulary growth is related to this idea. As I learn new words with Hanja I don&amp;rsquo;t know, new words are &amp;lsquo;unlocked&amp;rsquo; that utilise this new Hanja with other characters I don&amp;rsquo;t know. These words are much easier to acquire than native Korean words because of the characters (and obviously the time I&amp;rsquo;ve spent with the language). They take less encounters to learn, sometimes being picked up easily on the first encounter just based on the context and past knowledge, while others I may look up and then they are fairly easy to understand in following encounters. Because there are just so many of these words and even without mining an insane amount or spending more hours with the language I am able to still consistently acquire vocabulary (I discuss this more later when I talk about comprehension).&lt;/p&gt;
+&lt;p&gt;The other idea of &amp;lsquo;free&amp;rsquo; words does partially have do with words using Chinese characters that are instantly obvious and take no effort to learn but they also include word families (groups of related lemmas). For example (this example assumes you know basic Korean), if you learn &lt;em&gt;noun&lt;/em&gt;-하다, you may also learn &lt;em&gt;noun&lt;/em&gt;, &lt;em&gt;noun&lt;/em&gt;-되다, &lt;em&gt;noun&lt;/em&gt;-시키다 and so on without trying to. Because of this, as I encounter words I&amp;rsquo;ve already learnt in different forms my vocabulary number is just guaranteed to increase. If I were to estimate, maybe 1k~ words I marked this year were &amp;lsquo;free&amp;rsquo; in the sense that I knew one form, like &lt;em&gt;noun&lt;/em&gt;-하다 and then marked &lt;em&gt;noun&lt;/em&gt;-되다 because I encountered it and it wasn&amp;rsquo;t already marked known.&lt;/p&gt;
+&lt;h2 id=&#34;weaknesses--future-vocabulary-growth&#34;&gt;Weaknesses &amp;amp; Future Vocabulary Growth&lt;/h2&gt;
+&lt;p&gt;I still feel like my vocabulary is one of the bigger weaknesses in terms of comprehension (aside from grammar) of Korean. Not only in terms of domain-specific vocabulary but there are still large amounts of useful vocabulary that all Korean&amp;rsquo;s know that I don&amp;rsquo;t. This is evident in the majority of content I consume, especially Syuka World (which I discuss later).&lt;/p&gt;
+&lt;p&gt;This leaves a lot of room for growth.&lt;/p&gt;
+&lt;p&gt;At my current position learning new, useful words still isn&amp;rsquo;t challenging. It doesn&amp;rsquo;t take that much time to find unknown words in general and if I try to find them its even easier. Further, there isn&amp;rsquo;t really any issues with actually learning and remembering new vocabulary. Not only can I remember the new words I learn but they have become much much easier to actively recall and use. I don&amp;rsquo;t really know if this happens to those who don&amp;rsquo;t delay output - the ability to just easily recall words you&amp;rsquo;ve seen once or twice - but it&amp;rsquo;s quite interesting witnessing as someone who has still continued to delay output.&lt;/p&gt;
+&lt;h3 id=&#34;anki&#34;&gt;Anki&lt;/h3&gt;
+&lt;p&gt;When discussing my personal vocabulary growth I believe Anki is worth touching upon.&lt;/p&gt;
+&lt;p&gt;It seems as though everyone has both a different opinion on Anki (and its usage at each stage) and relationship with the application if they&amp;rsquo;ve tried it (even unsuccessfully). There are people who feel as though Anki is best used at the beginning, to quickly build up the basic vocabulary necessary to jump start comprehension while others view Anki as most useful at a more advanced level as you learn vocabulary that you encounter relatively unfrequently (maybe a few times a year) that are still worth doing a few reps of so that you know it when you see it next.&lt;/p&gt;
+&lt;p&gt;I don&amp;rsquo;t really have any strong opinions either way; it has its use for any level just like you can reach any level without Anki. Sure, I wish I did more Anki (not necessarily more time, but more words, and better words) (and more effective Anki, with better cards, etc) in the first 18 months of my learning - although I try not to hold any regrets for anything, including trivial things like Anki - but in the grand scheme of things, Anki was not what got me to where I was. It enabled it to a certain degree but I don&amp;rsquo;t need Anki, and I no longer feel that way.&lt;/p&gt;
+&lt;p&gt;The other day I listened to Matt VS Japan&amp;rsquo;s video he filmed when he quit Anki. I remember watching it when I first started learning Korean, and a part of me being excited for being at that point where I can just quit Anki. But as I watched it it felt foreign - like I had never seen the video before. I don&amp;rsquo;t have the feelings of deep dependency on Anki that he expresses on the video, or the stress and worries that come with using the app at a large, overbearing relative quantity of cards. For me, it just is. It doesn&amp;rsquo;t matter. I can do it, or I can&amp;rsquo;t. I can sit through a 1000 unique reviews and be fine and I can chose to not do my Anki for as long as I want and not think or worry about it.&lt;/p&gt;
+&lt;p&gt;Almost like I am free.&lt;/p&gt;
+&lt;p&gt;And maybe that is why I continue to use it. Because there is no burden for me anymore. I just like mining stuff, so I may as well review them. I like having this database of all these cool sentences and words I found that I can peak at when I want to output something new or grab some audio to chorus.&lt;/p&gt;
+&lt;p&gt;My relationship with the application has changed quite a lot as I&amp;rsquo;ve grown as a learner and a person. I think this is fairly evident in my lack of (consistent, or any) use of Anki for the majority of 2024. If I am being honest, I won&amp;rsquo;t ever have the habit of doing Anki every day during my commute, or even doing it consistently on a mobile device unless I morph into a different person. Other small moments of my day where I would&amp;rsquo;ve fit Anki in, in the past was now spent reading a couple pages or just allowing myself a moment. Though, the majority of my flashcard reviews in the last couple years have happened right before I slept, which I stopped doing as well because I would rather get better sleep (especially when I have to wake up in 7-8 hours) than do flashcards I don&amp;rsquo;t need to rep.&lt;/p&gt;
+&lt;p&gt;Anyway, I do see myself continuing to use it because I like making cards. It&amp;rsquo;s fun and relaxing. I don&amp;rsquo;t want to spend that much time on Anki and waste my life on something frivolous but when I do want to do it, why not?&lt;/p&gt;
+&lt;p&gt;One thing that I shared with Matt in that Anki video was having a 1 year suspend (or well, for him it was the card being deleted) interval - if a cards interval is &amp;gt;1 year I no longer see it - because at that point if I forget, I forget. If it was useful I would&amp;rsquo;ve seen it before I forgot anyway. And I can always just look it up or ask.&lt;/p&gt;
+&lt;h1 id=&#34;overall-comprehension&#34;&gt;Overall Comprehension&lt;/h1&gt;
+&lt;p&gt;My overall comprehension has increased tremendously over the last year in all areas. The majority of what I consume falls within the 97% to 100% word comprehension outside of history related content and certain political areas I haven&amp;rsquo;t touched before. Last year I had 3 things (this obviously includes things like music or extremely short videos) with 100% comprehension, now there are hours and hours of content with 100% word comprehension, so much so it would take months (assuming I&amp;rsquo;m not immersing a crazy amount) to go through it all.&lt;/p&gt;
+&lt;p&gt;One of the highlights for me this year was reaching 100% word comprehension in a drama for the first time (albeit it was using WhisperX subtitles - which are really accurate).&lt;/p&gt;
+&lt;p&gt;My listening comprehension in particular still feels reliant on external (and by external I mean factors outside of the content and my actual knowledge) factors such as anxiety, stress, insecurity etc, regarding my Korean ability. I&amp;rsquo;ve noticed that when I am not thinking about it, or don&amp;rsquo;t care, it is way easier to understand and the language takes less effort to do so.&lt;/p&gt;
+&lt;p&gt;For instance, in the few days leading up to my anniversary, as I started writing I felt my anxiety increase and my comprehension fall. After the date passed my comprehension once again increased and it felt &amp;rsquo;normal&amp;rsquo; - like I was watching something in English and hadn&amp;rsquo;t just struggled with understanding things without subtitles the previous day.&lt;/p&gt;
+&lt;h1 id=&#34;videoaudio-comprehension&#34;&gt;Video/Audio Comprehension&lt;/h1&gt;
+&lt;p&gt;This section dives into specifics of my comprehension in different audio-based media with a few examples.&lt;/p&gt;
+&lt;h2 id=&#34;non-specialised-speech&#34;&gt;Non Specialised Speech&lt;/h2&gt;
+&lt;p&gt;While a lot of the vocabulary I have learnt over the last year are lower frequency and less useful to casual daily conversations, a decent chunk of the words I have learnt are still used in these scenarios. This may be a little surprising if you underestimate the variety of vocabulary we all possess (in our native languages) but we do use a wide range of words regularly even if we do have a smaller core vocabulary. Further, as you get into more &amp;lsquo;domain specific&amp;rsquo; content that is still addressing the general public (that does not assume background knowledge, maybe just a middle or high school level of education) the sheer size of vocabulary used in speech is extremely evident.&lt;/p&gt;
+&lt;h3 id=&#34;syukaworld&#34;&gt;SyukaWorld&lt;/h3&gt;
+&lt;p&gt;This is a pretty big dump but I honestly think it&amp;rsquo;s worth sharing as is because I think it illustrates where I am currently with Korean fairly well and what it is actually like at this vocabulary - that there is still a large gap despite the big glamourous number and easy misconceptions about how many words we know and use.&lt;/p&gt;
+&lt;p&gt;Over the last few months the majority of my immersion has been SyukaWorld videos.&lt;/p&gt;
+&lt;p&gt;If you don&amp;rsquo;t know what SyukaWorld is, it is a Korean YouTube channel consisting of mainly VODs of his live streams where he discusses various world issues; ranging from trends across the globe to politics and economics. Despite the topics discussed in his content SyukaWorld is fairly accessible to the general public through the way he explains concepts, relates the issues to things his audience would know and strays away from &amp;lsquo;academic&amp;rsquo; or &amp;lsquo;specialised&amp;rsquo; language when necessary. He also prepares slideshow-esk images that display statistics, concise summarising sentences and pictures for each part of a topic he discusses. Syuka does this all very well which explains why he is one of the biggest YouTube channels in Korea.&lt;/p&gt;
+&lt;p&gt;Because of how friendly his content is Syuka becomes a great entryway to consuming other media (like news sources or harder podcasts and channels) on certain topics. This in turn allows me to learn from this media in a way that I wouldn&amp;rsquo;t have without Syuka bridging the gap. For instance, if the main vocabulary for a topic is learnt through a SyukaWorld video, other vocabulary he didn&amp;rsquo;t use can be learnt as now the sentences in which they appear are 1t.&lt;/p&gt;
+&lt;p&gt;The majority of his main channel videos also have soft subtitles/closed captions so he has become one of main sources for mining and vocabulary gains using Kimchi Reader. I can easily create high quality cards from his videos with Kimchi Reader thanks to how he speaks and the images he shows.&lt;/p&gt;
+&lt;p&gt;When I first watched his content in 2023 my comprehension, both in terms of percentage of known words, but also percentage of sentences with no unknowns (% of 0t sentences) was fairly high.&lt;/p&gt;
+&lt;p&gt;Compared to when I first watched his content in 2023 my comprehension had increased quite significantly. This increase includes the percentage of known words, percentage of sentences with no unknowns (which enables unknown vocabulary to be learnt easier than if it were lower) as well as my ability understand the topics presented and actually internalised what he is saying at his speaking pace without subtitles. The effort required for me to understand him has diminished greatly to the point where I genuinely feel comfortable consuming his content in such a relaxed manner, something I couldn&amp;rsquo;t have done with the vast majority, if any, Korean content last year.&lt;/p&gt;
+&lt;p&gt;However, the degree of unknowns per video I still get is significant and highlights how much my vocabulary still needs to improve (while being of actual use).&lt;/p&gt;
+&lt;p&gt;On his entire channel my comprehension is slightly over 97% (possibly higher when removing all the &amp;lsquo;unknown&amp;rsquo; foreign words included in this estimate). This seems high however considering the fact that he averages about 140 words per minute, that is still 4 unknowns each minute. Even if we assume the average is 98% (which it definitely isn&amp;rsquo;t) to take into account the foreign vocabulary, that is still 2.8 unknowns a minute. For an average 30 minute video I will get over 60 actual unknowns.&lt;/p&gt;
+&lt;p&gt;This may look deceivingly good to some, but when you keep in mind his audience, and the fact it is an optimistic estimate (where 50% of his content would be worse than this) the gaping hole in my vocabulary that has yet to be filled despite everything, is obvious.&lt;/p&gt;
+&lt;p&gt;Imagine consuming content in your native language, targeted at the average person, who doesn&amp;rsquo;t need a base understanding in the topic (aside from maybe what he has addressed in earlier videos on the subject) and you are not understanding information every 15 to 30 seconds. Information that may be crucial to you actually following along. When you are watching a 30 minute video, that&amp;rsquo;s 60-120 pauses. 60-120 times where you don&amp;rsquo;t understand something you should understand.&lt;/p&gt;
+&lt;p&gt;This is not to diminish how much I do understand, how easily I can learn from his content, my ability to do understand him without subtitles and the ease I have in it compared to what I had a year ago (even compared to content like vlogs, SyukaWorld feels easier to understand without subtitles than vlogs did in late 2023). I am learning vocabulary from it - easier than I did ages ago as well. I genuinely enjoy it and I am at the point with a decent chunk of his content where I can just consume it for entertainment. However, two things can exist at once and I think it&amp;rsquo;s important to acknowledge both the ease of my consumption of this type of content (at this point) and how far I still have to go with Korean to be anywhere close to a non-educated native &lt;em&gt;just&lt;/em&gt; vocabulary wise.&lt;/p&gt;
+&lt;p&gt;The gap is huge, but I shall conquer it.&lt;/p&gt;
+&lt;h3 id=&#34;casual-slice-of-life-content&#34;&gt;Casual, Slice of Life Content&lt;/h3&gt;
+&lt;p&gt;My comprehension in more casual areas of speech has also increased significantly thanks to vocabulary acquisition and further exposure to the language. However, I still feel like I am not as comfortable as I should, and can be.&lt;/p&gt;
+&lt;p&gt;For instance, while a lot of this content is at 99% comprehension according to Kimchi Reader (the average comprehension of the majority of vlog and K-pop channels on Kimchi Reader is above 99%, and if I open a video on these channels that is at that average,) I am still obviously getting more than 1 unknown per minute of straight speech due to the nature of 99%. Obviously considering the average is greater than 99%, assuming that they&amp;rsquo;re speaking at a natural speed throughout the video there is a decent chunk of content where I will go minutes without unknowns, but it is still frustrating that there is still so much content where someone can speak for a minute and I&amp;rsquo;ve already run into unknown vocabulary.&lt;/p&gt;
+&lt;p&gt;The upside however is that a larger amount of vocabulary at this point is decipherable with context (and as mentioned earlier, are easier to learn) and basic hanja knowledge. They do not impede my comprehension too much, however they do take away some of the enjoyment when consuming a large degree of materials.&lt;/p&gt;
+&lt;p&gt;For a few speakers (who don&amp;rsquo;t usually touch on complex topics that require wide vocabularies the way someone like SyukaWorld does) I can comfortably go upwards of 10+ minutes, sometimes even 20/30 minutes without hearing a word from them I don&amp;rsquo;t know. This is obviously in part from having spent massive amount of time with them and have learnt the large majority of the vocabulary they actively use. As my vocabulary is larger, it takes much less time/exposure to reach this point with other speakers, although it still does take a decent amount of exposure to their speech in a variety of situations.&lt;/p&gt;
+&lt;p&gt;I have noticed more recently the effects of large exposure to certain people (at a higher comprehension). For example, I can actually pick out various quirks of certain peoples speech like grammar and vocabulary they use more frequently than others, ways they breathe as they speak or how they to emphasise their point. While this isn&amp;rsquo;t occurring to a significant degree, I have noticed it and that has given me hope to actually sounding decent (semi natural) in the future considering I&amp;rsquo;ve consistently struggled with the &amp;lsquo;how&amp;rsquo; something is expressed (aka WHAT is said by a native to express something. What words are used, what grammar is used, what idioms exist, when it is all used, etc).&lt;/p&gt;
+&lt;h1 id=&#34;reading&#34;&gt;Reading&lt;/h1&gt;
+&lt;p&gt;Reading has been one of those areas I have seen large improvement in even with minimal hours as the 3rd year drew to a close. The main areas I saw improvement were&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Vocabulary &amp;amp; Less and less translating (both sentences/clauses and vocabulary I had recently learnt) in my head&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Able to retain more information for longer&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Less effort required to understand difficult sentences and clauses&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Less effort required to understand difficult sentences and clauses Deeper understanding of the story and underlying message/ideas being conveyed - feels closer to English than it used to&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I have some book stats below this section :)&lt;/p&gt;
+&lt;h2 id=&#34;1---vocabulary&#34;&gt;1 - Vocabulary&lt;/h2&gt;
+&lt;p&gt;New vocabulary has become way easier to learn, as I&amp;rsquo;ve said multiple times, and this extends to reading. Specifically what I&amp;rsquo;ve noticed is my ability to just &amp;lsquo;understand&amp;rsquo; a word I recently learnt without needing to hear it in my head as the English translation. The word now just exists in mentalese way easier.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m sure some people may assume this may be because of monolingual definitions, however! I still chose English definitions over Korean ones when given the opportunity (sometimes going as far to actually look for one). So it is not that I am now just understanding these words in Korean, because I am not, I just understand them the same way I do in English, where there is no literal definition tied to it (not that I couldn&amp;rsquo;t produce one if necessary but I don&amp;rsquo;t actively recall them anymore when seeing the word).&lt;/p&gt;
+&lt;p&gt;This has occurred in the past but to a much lesser extent and with much more exposure to that word required.&lt;/p&gt;
+&lt;p&gt;I have noticed it most in reading mainly because when I listen to things I have two modes; &amp;rsquo;listen, not think and just understand&amp;rsquo; and &amp;lsquo;panic mode about bad at Korean&amp;rsquo;. Because reading allows you to go at your own pace, it also allows you to recall vocabulary at any pace as well so it is much more evident when I read that I can just see and understand than when I am listening because I have time to process the fact that I just understood this random word and then have time to reflect on doing so and how I feel and watch over that experience from another level as a neutral observer.&lt;/p&gt;
+&lt;h2 id=&#34;2---information-retention&#34;&gt;2 - Information Retention&lt;/h2&gt;
+&lt;p&gt;One of the things I have been the most embarrassed about in regards to my Korean is my lack of ability to recall and retain information from what I&amp;rsquo;ve read. When I read my focus is on learning. Learn the new word, mine the sentence, understand each sentence, piece it together. However I have always struggled with actually retaining the information in books. On occasion the larger plot just doesn&amp;rsquo;t exist to me because I am so focused on the details. I will finish a book and it will just leave my brain as if I hadn&amp;rsquo;t read more than 2 random pages.&lt;/p&gt;
+&lt;p&gt;This has increasingly become better over the last 18 months however I do feel as though it is still an issue. While I still remember parts of books I read nearly a year ago (which I could not do when I read those books) part of why I retained the information of those books was because I used English in some manner or because I spent so long thinking about the book. Over the last 12 months the threshold to remembering what has happened has decreased significantly (for instance, I read some of The Vegetarian in October and I can still remember all of what I read (despite not really thinking about the book) as I write this section in Jan 2025) but it is still an issue.&lt;/p&gt;
+&lt;h2 id=&#34;3---difficult-sentences--clauses&#34;&gt;3 - Difficult Sentences &amp;amp; Clauses&lt;/h2&gt;
+&lt;p&gt;This is definitely impacted by vocabulary. It is really really hard to actually understand a sentence in a fluid manner (as in you can read it and understand it in its whole without issues including having to think or pause or look something up again) when you don&amp;rsquo;t know all the vocabulary in the sentence. Personally with 1 unknown its fairly manageable, but the second there&amp;rsquo;s multiple and its a longer sentence, having to follow along to what&amp;rsquo;s being expressed, while remembering what I just read, while also remembering the definitions of the unknowns (I read the sentence, lookup the words, then reread or lookup then read) is really challenging. So, naturally having less unknowns means I can do it easier. And doing it more and more also makes it easier.&lt;/p&gt;
+&lt;p&gt;I struggle with this way less often than I used to, to a genuinely significant degree. The majority of the sentences in the more complex texts I have been reading I would have never read fluidly 12-18 months ago. Even in the last 6 months, despite reading less it has still become easier.&lt;/p&gt;
+&lt;h2 id=&#34;4---understanding&#34;&gt;4 - Understanding&lt;/h2&gt;
+&lt;p&gt;I think this is one of the things you don&amp;rsquo;t realise you aren&amp;rsquo;t doing until you do it. I would thus assume that in a year or two I will realise that in 2024 I was doing it at an almost surface level compared to then, and continue to feel and reflect in that manner far into the future.&lt;/p&gt;
+&lt;p&gt;Part of this feeling is that it takes me less effort to understand what is being said, and being able to actually retain what is said also adds to this however I think there is also more to it.&lt;/p&gt;
+&lt;p&gt;I remember watching a Matt VS Japan? video a few years ago where he discusses understanding comedy in Japanese. How certain Japanese comedy you can only really understand if you&amp;rsquo;re super good, or it just goes completely over your head. How there is so much of Dogen&amp;rsquo;s comedy that less advanced learners of Japanese (or those who don&amp;rsquo;t know the language) would just not get that he gets and Japanese people get. I believe that concept - of deeper levels of understanding being locked behind your level - applies to other aspects as well.&lt;/p&gt;
+&lt;p&gt;I am definitely don&amp;rsquo;t think I am at the level that Matt discusses in that video but I do feel as though over time when I read or hear something it affects me in ways that it wouldn&amp;rsquo;t have earlier. The connotations are larger, the words hold more meaning to me because I understand them better and with less effort. The barrier that was once so large and overbearing slowly disintegrates and as it does what is on the other side is clearer and cuts deeper. I think the best way to explain it would be like really really blurry glass. You can see the room on the other side, a monotone figure, and blobs of a couple colours, but if it became slowly becomes more complex. The figure isn&amp;rsquo;t montone, there are multiple colours. The blobs are now differentiable, but still blobs. And as it becomes less blurry soon you realise that you can make out each piece of clothing on the future, you can see their face, the wrinkles and tears running down their face. You can see dirt on their pants. You can tell apart the different textures of each fabric. You can see food on their face. You can see the direction of the wood grain of the furniture. You can tell which furniture has been used more and how it all contorts.&lt;/p&gt;
+&lt;p&gt;Slowly over time you see things you never realised you could actually see because you were so used to it being more blurry (and because it becomes less blurry so slowly). When you finally notice it, things like the tears, the larger picture that you thought you saw months ago is finally obvious. The figure was so obviously upset from its posture but it took you seeing its tears to realise that.&lt;/p&gt;
+&lt;p&gt;Anyway, I feel like I can connect with what I am consuming, especially written language, way more than I could even 6 months ago.&lt;/p&gt;
+&lt;h2 id=&#34;an-example&#34;&gt;An Example&lt;/h2&gt;
+&lt;p&gt;In March I read 공간이 만든 공간 by the architect Yoo Hyeon Joon (윤현준) after I was recommended it. There was a lot of unknown vocabulary going into it, but I really enjoyed it. The hardest part was following was the longer sentences with multiple unknowns. I was also having a slightly difficult time following each section and then the overall journey the book takes. However, as I read more and eventually read the second book and moved onto another one of his books (도시는 무엇으로 사는가) the vocabulary became way less of an issue, I could follow each section fairly easily, I wasn&amp;rsquo;t needing to spend that long on difficult sentences and the effort required was so much less.&lt;/p&gt;
+&lt;h2 id=&#34;book-stats&#34;&gt;Book Stats&lt;/h2&gt;
+&lt;p&gt;Below is my comprehension (according to Kimchi Reader) of nearly book I&amp;rsquo;ve read in the past year as of now (not when I read it):&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Title&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Type&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Genre&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Total Words&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Total Unknowns&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Word Comprehension&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;이상한 그림&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Fiction&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Mystery&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;28118&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;772&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;97.18%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;아주 작은 습관의 힘&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Non-Fiction&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Self-Help&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;44589&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;439&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;98.95%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;레몬&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Fiction&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Mystery&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;18545&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;268&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;98.25%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;미친 집중력&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Non-Fiction&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Self-Help&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;8746&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;50&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;99.36%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;은둔형 외톨이의 마법&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Fiction&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;YA&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;43494&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;177&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;99.56%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;영어 잘하는 사람들의 작은 습관&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Non-Fiction&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Self-Help&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;19627&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;118&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;99.32%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;죽고 싶지만 떡볶이는 먹고 싶어&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Fiction&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;20486&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;128&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;99.31%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;살인자의 쇼핑몰&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Fiction&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Action Thriller&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;19729&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;433&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;97.43%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;공간이 만든 공간&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Non-Fiction&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Architecture&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;41143&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;469&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;98.51%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;물고기 여인 1권&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Fiction&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;YA&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;31109&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;151&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;99.43%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;천일야화&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Fiction&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Fairy Tale&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;22155&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;239&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;98.63%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;모든 순간이 너였다&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Essay&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;14608&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;63&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;99.53%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;나태주 연필화 시집&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Fiction&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Poetry&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5488&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;125&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;97.58%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;물고기 여인 2권&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Fiction&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;YA&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;30939&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;149&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;99.47%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;끝없는 밤&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Fiction&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Mystery&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;39726&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;383&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;98.89%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;당연하게도 나는 너를&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Fiction&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;YA&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;23082&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;75&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;99.68%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;무생물 이야기&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Fiction&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;24262&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;164&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;99.29%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;미친 암기력&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Non-Fiction&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Self-Help&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;13636&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;100&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;99.22%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;가면산장 살인사건&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Fiction&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;35701&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;215&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;99.33%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;공간의 미래&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Non-Fiction&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Architecture&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;40883&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;303&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;99.01%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;또다시 같은 꿈을 꾸었어&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Fiction&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;YA&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;38778&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;158&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;99.47%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;죽이고 싶은 아이&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Fiction&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;YA&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;20099&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;78&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;99.56%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;아무튼, 피트니스&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Fiction&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;15530&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;207&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;98.33%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;이상한 나라의 앨리스&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Fiction&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Childrens&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;39246&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;589&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;98.44%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;질문하는 한국사 2 고려&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Non-Fiction&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Korean History&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;20035&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;433&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;97.33%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;나는 나로 살기로 했다&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Non Fiction&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Self-Help&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;17718&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;377&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;97.85%&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Below is my comprehension for the books I&amp;rsquo;m currently reading as of the 21st of Nov:&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Title&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Type&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Genre&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Progress&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Total Words&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Total Unknowns&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Word Comp&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;도시는 무엇으로 사는가&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Non Fiction&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Architecture&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;56.87%&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;45584&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;575&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;98.60%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;채식주의자&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Fiction&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Literature&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;13.94%&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;29894&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;794&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;97.26%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;고시원 기담&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Fiction&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Thriller&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;18.94%&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;45192&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;686&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;98.36%&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;extra-notes&#34;&gt;Extra Notes:&lt;/h3&gt;
+&lt;p&gt;I think giving examples of what this actually looks like is important; you can see a couple &lt;a href=&#34;https://www.sinosplice.com/life/archives/2016/08/25/what-80-comprehension-feels-like&#34;&gt;here&lt;/a&gt;. My highest comprehension I have achieved on any book I&amp;rsquo;ve read this year is 99.68% for 당연하게도 나는 너를. If an average book has 250 words per page then this would look like roughly 1 unknown word per page. I feel like this is both great, and also highlights how far I have to go considering the demographic for this book (and thus its relative difficulty for a native). Further:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;99% comprehension = 2.5 unknown words a page&lt;/li&gt;
+&lt;li&gt;98% comprehension = 5 unknown words a page&lt;/li&gt;
+&lt;li&gt;97% comprehension = 7.5 unknown words a page&lt;/li&gt;
+&lt;li&gt;96% comprehension = 10 unknown words a page&lt;/li&gt;
+&lt;li&gt;95% comprehension = 12.5 unknown words a page,&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;and so on. It may not seem like a lot but over the span of hundreds of pages it can get pretty tiring if you don&amp;rsquo;t want to deal with unknowns and just want to read extremely comfortably.&lt;/p&gt;
+&lt;p&gt;Because I listened to 서재의 시체 as an audiobook I do not have Kimchi Reader stats for it.&lt;/p&gt;
+&lt;p&gt;For a few books I remember my comprehension before reading them:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;살인자의 쇼핑몰 = 93%~&lt;/li&gt;
+&lt;li&gt;공간이 만든 공간 = 96%~&lt;/li&gt;
+&lt;li&gt;A lot of the YA books were 98%+ before reading:
+&lt;ul&gt;
+&lt;li&gt;당연하게도 나는 너를&lt;/li&gt;
+&lt;li&gt;죽이고 싶은 아이&lt;/li&gt;
+&lt;li&gt;또다시 같은 꿈을 꾸었어&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;죽고 싶지만 떡볶이는 먹고 싶어 = 97%~&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I also read a few manga volumes over the course of a few days in June:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;히카루가 죽은 여름 1&lt;/li&gt;
+&lt;li&gt;헌터헌터 1&lt;/li&gt;
+&lt;li&gt;데스노트 4&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I genuinely enjoyed Death Note although I didn&amp;rsquo;t really care for the other two. The main reason why I didn&amp;rsquo;t continue to read any manga past this week, including Death Note was because it was too easy and thus for the level of enjoyment I was gaining from it, was thus not worth it. I mined a total of 30 cards from the first three volumes and by the time I returned there were practically no unknowns. On the occasions where there were unknowns they made for poor cards so I didn&amp;rsquo;t mine them.&lt;/p&gt;
+&lt;p&gt;I do think these types of mediums (manhwa, manga, webtoons) are good for learning and I may return to them but this year was not that year.&lt;/p&gt;
+&lt;h1 id=&#34;output&#34;&gt;Output&lt;/h1&gt;
+&lt;p&gt;Originally going into year 3 I wanted to focus more on output including getting an iTalki tutor, meeting up with people in my area, thinking in Korean more regularly and doing regular shadowing and chorusing. To be completely frank, I did none of this. I would estimate that I have less than 20 hours of all forms of output this year (based on my HelloTalk screen time and literal lack of any other output) and I have still yet to orally output to another person. The majority of the time I spent outputting this year took place right at the start on HelloTalk. When taking into account all the time I spent waiting for responses (with the app open typically), having conversations in English, or finding people to message, I would estimate that less than 30% of the time on HelloTalk was actual Korean conversations.&lt;/p&gt;
+&lt;h2 id=&#34;why-didnt-i-continue-to-output&#34;&gt;Why Didn&amp;rsquo;t I Continue to Output?&lt;/h2&gt;
+&lt;p&gt;Honestly, I just didn&amp;rsquo;t want to. My input is still no where near I want it, and the time and energy it takes to have extremely limited, simple, boring conversations that will lead somewhere 1 in 100 times was not worth it considering how I felt about my input and how my life was going.&lt;/p&gt;
+&lt;p&gt;Trying to output is fucking tiring. Actually outputting wasn&amp;rsquo;t, but finding people to do it with sucked and it never felt worth it. So I didn&amp;rsquo;t do it. It is really that simple. I don&amp;rsquo;t regret it at all. Maybe I would have a basic level of fluency if I had committed even 45 minutes a day to conversing in Korean but I have my entire life to speak in Korean, why do it when I don&amp;rsquo;t want to and already have immense stress?&lt;/p&gt;
+&lt;p&gt;To be completely frank, the few times I&amp;rsquo;ve talked about output at all in certain spaces people have been quite dismissive and a little rude. It is not hidden that I have big anxiety issues, but I am honestly sick of people acting as if they understand my lack of output, let alone my actual anxiety and how it affects me. This kind of ties back to what I said earlier; people love telling you how to feel and what to do, solving problems you didn&amp;rsquo;t ask for help with and not actually respecting you. Honestly I felt a lot of pressure to output for a while (which was definitely influenced by these spaces and their expectations) and eventually, none. It diminished because I was so done with people telling me to output and not respecting me. It honestly lead me to literally censor my thoughts and avoid conversations which could lead down that path because I was sick of having them and sick of dealing with the disrespect.&lt;/p&gt;
+&lt;p&gt;My anxiety is not the reason I don&amp;rsquo;t output at this point and I honestly don&amp;rsquo;t actually think it effects me that much in terms of doing it. Sure, I have a small fear of speaking Korean and my accent being unintelligible, but aside from that I don&amp;rsquo;t really care. I suck, that&amp;rsquo;s the reality, whatever, we move on.&lt;/p&gt;
+&lt;h2 id=&#34;why-didnt-i-do-other-forms-of-output&#34;&gt;Why Didn&amp;rsquo;t I do other forms of Output?&lt;/h2&gt;
+&lt;p&gt;The reality is that I just didn&amp;rsquo;t want to. Again, I didn&amp;rsquo;t care enough to do so. Sure I could have easily written for 5-10 minutes a day and seen some decent progress (considering my input level and how bad my output is). Sure I could have occasionally just shadowed a little while watching YouTube. But I didn&amp;rsquo;t want to. I don&amp;rsquo;t think it has to be more complicated than; I felt like shit for the majority of the year post March, I had limited productive time, I wanted to actually enjoy Korean, I wanted to improve my input level, output was not enjoyable and I had no reason to chose it.&lt;/p&gt;
+&lt;h2 id=&#34;output-post-exams&#34;&gt;Output post Exams&lt;/h2&gt;
+&lt;p&gt;I finished exams on the 14th of November and have been waiting for the holidays to start so that I could actually place some energy towards output. Right now (as of mid December when I&amp;rsquo;m writing this) my output has been pretty inconsistent (tongue kind of destroyed the streak) but it has been genuinely enjoyable and completely stress free. I started having basic conversations and doing chorusing and shadowing again on the 19th of November. In those 3 days I was able to actively recall 2.5k lemmas. I&amp;rsquo;ve decided to track my active vocabulary using Kimchi Reader by putting my output (still no oral conversations) and any words I actively recall into a Kimchi Reader document.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2 Year Update Post</title>
+      <link>http://www.langlox.com/posts/2-year-update-post/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.langlox.com/posts/2-year-update-post/</guid>
+      <description>&lt;h1 id=&#34;preface&#34;&gt;Preface&lt;/h1&gt;
+&lt;p&gt;Below is context for things I’ll be consistently referencing throughout the post, which understanding will likely clear some things up!&lt;/p&gt;
+&lt;h2 id=&#34;refold&#34;&gt;Refold:&lt;/h2&gt;
+&lt;h3 id=&#34;what-is-it&#34;&gt;What is it?&lt;/h3&gt;
+&lt;p&gt;Refold is the roadmap I’ve been following to acquire Korean. Whilst I don’t completely agree with what they share/promote, I do find their stages and comprehension levels to be invaluable for measuring one’s understanding of a language. Plus, for me, the community has been one of the best parts about learning Korean. There are two things actually worth checking out by Refold, their simplified roadmap, and their detailed roadmap. They are one in the same but provide slightly different information and explanations, so if you’re interested in Refold, it’s worth reading the simplified roadmap and using the detailed one for extra information you need/want.&lt;/p&gt;
+&lt;h3 id=&#34;what-are-refold-stages&#34;&gt;What are Refold Stages?&lt;/h3&gt;
+&lt;p&gt;Refold Stages are Refold’s version of a level system, where each stage has different comprehension requirements and suggests different activities to improve your language skills. They can be viewed VIA the roadmap.&lt;/p&gt;
+&lt;h3 id=&#34;what-are-comprehension-levels&#34;&gt;What are Comprehension Levels?&lt;/h3&gt;
+&lt;p&gt;Refolds Comprehension Levels are ways of measuring your comprehension of a specific media (typically best used for audio media) that people within the community (and the roadmap itself) reference as a way to express/gauge their understanding of a certain material or domain to others. Stages have different comprehension requirements. You can view a few explanations &lt;a href=&#34;https://refold.la/roadmap/stage-2/a/levels-of-comprehension&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;https://refold.la/simplified/stage-2/a/measure-comprehension/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;introduction-and-recap&#34;&gt;Introduction and Recap&lt;/h1&gt;
+&lt;p&gt;As of November 21st, 2023, I have been actively learning Korean for 2 years. I did a 2000 hour (10 month) update last year, but since Migaku stats have been released, I’ve come to realise the stats I listed in that post are pretty inaccurate, so for anyone who read that original post, or is interested in where I was at 10 months in, below I’ll give a short summary of my actual comprehension (everything else is still accurate):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Harry Potter at 10 months was likely closer to 90% word comprehension where my comprehension would fluctuate between 0-2 unknowns per page to 5-7 depending on the scene. When I started reading Harry Potter I would have pages of 10-15 unknowns.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;My video (word) comprehension was anywhere between 90%-95% in most dramas - which is honestly pretty low - and it took a fair bit of effort to understand.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;My audio (word) comprehension was around 30%-50% of known (words I could understand with subtitles) words.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Vocabulary between 5-6k. At the time I said in the 6k range, but I am going to side on the air of caution as my vocabulary was at 6.7k in January 2023&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I was translating almost everything in my head&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I have stopped time tracking in the last year, so whilst I don’t know the exact amount of time I’ve spent acquiring Korean in 2023, I’d estimate I have reached 3.5k to 4k hours total with Korean (including grammar, not including Anki) and 3k-3.5k total of Korean immersion which means that in the last 14~ months I have accumulated another 1.5k-2k hours. I’ve put less time into Korean as I’ve started to focus more on other areas of my life.&lt;/p&gt;
+&lt;p&gt;In terms of Refold Stage, I would classify myself as 3B. I have had level 6 comprehension in multiple different areas and domains, including my parent, but I am unable to shadow for 60 seconds which is a part of the requirement for Stage 3C. There have been times where Korean genuinely felt effortless like English, however this has only made it even more apparent how far I am away from being good, and how much I suck.&lt;/p&gt;
+&lt;h1 id=&#34;grammar&#34;&gt;Grammar&lt;/h1&gt;
+&lt;p&gt;Everyone’s favourite part of the update, grammar! If you read the first update, you’d know I had a grammar addiction when I started learning Korean, but sadly this unrequited love has faded and I have moved on from her. I did basically 0 grammar outside of the occasional lookup until August, when I decided to make a few Anki cards for grammar - mainly for points I kept forgetting but also from KGIU Advanced. I currently have just over 60 cards in the deck and get about 5 reviews a day. Since I started making cards for grammar, my lookups have dropped dramatically - maybe once or twice a month. My grammar knowledge isn’t that great. It’s my weakest link in terms of listening comprehension, however it has been slowly improving and I will likely put more time into it during my upcoming break.&lt;/p&gt;
+&lt;h1 id=&#34;vocabulary-and-anki&#34;&gt;Vocabulary (and Anki)&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=rpMceiQkIYc&amp;amp;ab_channel=SpongeMindTV&#34;&gt;The fear of forgetting is more harmful than forgetting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Vocabulary Count as of the 21st of November (using Migaku):
+&lt;img src=&#34;21-11-2023Vocab.png&#34; alt=&#34;MigakuCount&#34;&gt;&lt;/p&gt;
+&lt;p&gt;As I mentioned earlier, In my original post, I estimated that my vocabulary was in the 6k range (but was more likely between 5k and 6k). I have had multiple stagnant periods with my vocabulary where I hover in that thousand range for 3 or so months without any real growth. This was partially due to the lack of easily mineable material (which one would expect when you’re consuming only native material from day 1) which also ties into the lack of mining, and the lack of comprehensible input (which didn’t really change until the last few months as most content has become Comprehensible Input (CI)). This has been insanely demotivating and frustrating for me, especially when one considers vocabulary count as a way to measure improvement and growth in language ability.&lt;/p&gt;
+&lt;p&gt;In the last few months, CI has helped me immensely with learning vocabulary as I have been able to acquire a decent chunk of words without any Anki, just from encountering it, and sometimes without a dictionary. For most of my journey I had the mindset that whilst obviously Anki isn’t needed for vocabulary growth (and that it isn’t the way you acquire vocabulary, rather it just primes you for immersion - which is when you acquire it), I needed it to grow my vocabulary and was useless without it. This mindset was interlinked with extreme insecurity regarding not only my Korean ability, but also my ability to learn and remember. Instead of trusting that I knew and understood something, my brain demanded that I didn’t know it and that I should use a dictionary (or papago) to make sure I did. I believe this mindset held me back from truly acquiring a lot of vocabulary as I never needed to remember it or acquire it, I could simply just look it up and move on.&lt;/p&gt;
+&lt;p&gt;I still use Anki and sentence mine, and if anything, I have ramped it up, but I have also been more deliberate with what I chose to mine and what I allow myself to acquire without any Anki assistance. My comprehension means that there are so many words that I can acquire just by trusting myself, and putting them in Anki is basically a waste of time.&lt;/p&gt;
+&lt;p&gt;This leads me into Anki and Sentence Mining. As I mentioned earlier, partially why my vocabulary wasn’t growing was because of my lack of mining. During this period (partially during Jan 30th, 2023 to July, 23rd, 2023 - 174 days - I mined a total of 218 cards) I was completely unaware of how little I was mining. I still felt the same fatigue I felt during prior months when I was regularly mining 15+ cards a day. I would mine any card that felt to be useful and good quality. I just had 0 idea that it was less than a card a day, and that for weeks at a time I would mine nothing.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;6MonthMiningSpan2023.png&#34; alt=&#34;Slump&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Looking back, of course I was demotivated, I had a completely false perception of what I was putting in, and in return I expected to grow my vocabulary at a decent pace and was disappointed and confused that it stagnated.&lt;/p&gt;
+&lt;p&gt;In late July I realised that I wasn’t consistently mining and decided to set a sentence mining goal - 20 sentences mined minimum, per day. Whilst doing this, I also attempted to put more significance on CI and being confident with my knowledge - making it easier to retain and acquire new words. Due to this, my vocabulary growth has improved significantly, and has become a lot more consistent. I hit 9,000 words on the 21st of August, and 13k words on the 20th of November. (You can see from the Anki screenshot that over the last 50 days my mining hasn’t been at 20 - this is due to exams ):&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;NewAddedLate2023.png&#34; alt=&#34;A New Era&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Another thing that has helped with mining is moving over to Kimchi Reader! Whilst Migaku is okay at what it does, Kimchi reader blows it out of the water and has made it much easier to mine and much less frustrating to do so. The parser works. The dictionary entries are good. I have to click 3 buttons to make cards and have them actually work, and I can mine more miscellaneous things much easier - like YouTube comments.&lt;/p&gt;
+&lt;p&gt;Surprisingly, my retention in Anki has actually improved substantially - which I’m guessing is mainly due to FSRS which I started using in August - from 65% mature to 90%-95% mature depending on the day. I also feel as though in the last few months I have been forgetting words less and less - and looking up already learnt words less - though it obviously still happens.&lt;/p&gt;
+&lt;h1 id=&#34;comprehension&#34;&gt;Comprehension&lt;/h1&gt;
+&lt;h2 id=&#34;comprehension-in-person&#34;&gt;Comprehension In-Person&lt;/h2&gt;
+&lt;p&gt;On the 21st of November, the day I hit 2 years active, there were multiple groups of Koreans at the climbing gym I went to. Whilst I didn’t talk to them - maybe one day I’ll get over my anxiety lmao - the experience of understanding them was surreal. Without trying, I was able to understand them as if they were speaking in English. There was no effort exerted, if anything I tried not to eavesdrop. Over the course of an hour, I missed 1 word. Which is just insane to think about personally.&lt;/p&gt;
+&lt;h2 id=&#34;comprehension-of-written-media&#34;&gt;Comprehension of Written Media&lt;/h2&gt;
+&lt;p&gt;My comprehension of written material has improved a decent amount in the last year in a few different ways.&lt;/p&gt;
+&lt;h3 id=&#34;fiction-comprehension&#34;&gt;Fiction Comprehension&lt;/h3&gt;
+&lt;p&gt;The last few books I’ve read and finished in Korean (&amp;lsquo;여기는 커스터드, 특별한 도시락을 팝니다&amp;rsquo;, &amp;lsquo;드래곤라자 2&amp;rsquo;권&amp;rsquo;, &amp;lsquo;Harry Potter and the Goblet of Fire&amp;rsquo;, &amp;lsquo;칵테일, 러브, 좀비&amp;rsquo;, &amp;lsquo;마당이 있는 집&amp;rsquo;, &amp;lsquo;한국이 싫어서&amp;rsquo;, &amp;lsquo;달러구트 꿈 백화점&amp;rsquo;) have all been within the extensive reading threshold (95%+ comprehension). This has meant that I’ve been able to more easily acquire vocabulary without the help of Anki or in some cases, a dictionary.&lt;/p&gt;
+&lt;p&gt;Over the last year, it has been much easier to follow the overall plot and remember details of stories. I believe this is due to the fact that there are fewer unknown words that I’m trying to acquire, allowing my brain to dedicate more energy to the actual story. When I originally started reading (and for a long time afterwards) following the plot was extremely difficult. I could understand all the sentences, but I couldn’t see the bigger picture as the effort to understand each sentence was huge.&lt;/p&gt;
+&lt;p&gt;Even though now I am able to engage substantially better with the plot of a story, my brain will basically erase it from my mind once I’m done reading it.&lt;/p&gt;
+&lt;p&gt;I believe one of the factors contributing to the reason I just can’t remember and follow a plot super well is my lack of enjoyment for the story itself. Most of the enjoyment I gain from reading in Korean comes from the learning aspect. I enjoy finding new words and mining and realising I’ve acquired words I’d first seen a month ago. Even though I love reading in English, I cannot focus super well. This has translated into my Korean reading as well, where I will be able to read and understand with lower energy and focus, however when I do read in a low energy-focus state, I cannot properly recall what I’ve read and it becomes super hazy.&lt;/p&gt;
+&lt;p&gt;These issues have become pretty obvious in the last 2 months as I’ve basically just become bored of reading. I still do it because it is such a huge habit I cannot break, and I do enjoy the actual act of reading even if I don’t like the material. But, as my comprehension has increased, I have realised that most of the books I’ve read I don’t actually care about story wise. That I only enjoy them to learn. And as I become more competent, the story I’m reading has become a more significant factor in my enjoyment and longevity of the activity. This means that within an hour or so of starting a book, I’m bored of it.&lt;/p&gt;
+&lt;p&gt;I do think my memory issues are directly tied to effort, enjoyment/engagement, and focus as when I read short stories I recall the plot way better and can focus for longer. The current novel I am reading is fairly interesting and I have been able to recall quite a bit of the plot, details and some of the character quirks. My word comprehension is at around 96% and my sentence comprehension changes with chapters (85%-90% is my guess).&lt;/p&gt;
+&lt;p&gt;I am planning on taking a break from fiction after I finish my current novel due to a lack of motivation and boredom. Whilst in other areas, having 0 lookups is great, with books, when my enjoyment depends on my perception of how much language I’m acquiring (even though I’m aware I’m improving just as much, if not more by reading higher comp material) is lowkey frustrating. I do want to be able to read something and not have to look anything up eventually, but until I find engaging stories, I either have to stop reading fiction or read harder books.&lt;/p&gt;
+&lt;h3 id=&#34;non-fiction-comprehension&#34;&gt;Non-Fiction Comprehension&lt;/h3&gt;
+&lt;p&gt;Since my original post, I’ve been reading blogs occasionally - mainly about climbing - as they’re fairly easy and the language used is more useful than novels. In the last 4 months, I’ve been branching out and slowly focusing more of my time towards non-fiction. This includes news and as of November, Korean history and physics textbooks.&lt;/p&gt;
+&lt;p&gt;For physics, the textbook I’ve been using is extremely easy to understand and almost all the unknowns are Korean physics terms, which I’m picking up fairly quickly. Outside of those physics terms, I would say my word comprehension is over 99% and my sentence comprehension is probably around 97%. I’ve also been watching university lectures, which have zero subtitles, where my word comprehension is around 95% and sentence comprehension is around 70% (this is just due to longer sentences). However despite the fact there are quite a bit of unknowns, I can definitely understand more than 70% from context, intuition and prior knowledge (on the subjects).&lt;/p&gt;
+&lt;p&gt;For Korean history, my domain heavily weighs on the book I’ve picked up. There are some books I’m interested in trying but the word comp when parsed with Migaku is 80% (which is lower than it actually is as Migaku has parsing errors and names and locations are counted as ‘unknown’ - but it is still probably within the 80%-90% range) which makes it pretty difficult paired with the long sentences typical of non-fiction writing. In the current history book I’m reading, 질문하는 한국사, word comprehension is close to 95%.  Again, the long sentences make my sentence comprehension pretty poor but there are a decent chunk of 1t sentences that I can mine, and the amount of 0t within the book has been growing the more I’ve read.&lt;/p&gt;
+&lt;p&gt;For news, my comprehension as expected varies wildly depending on the topic. Literally everything outside of politics and war (tech, science, sports, space, life events, disasters, etc), I will have a 95%+ comprehension. For political-related articles my word comprehension is 85%-90% and sentence comprehension is around the 60% area - also due to the extremely long-winded sentences that make news basically impossible to mine from. To mine political news, almost all my cards have come from Youglish. I will throw a word into Youglish and find a 1t that way. It works pretty well and the cards have audio so, very nice. Hopefully over the next year I can slowly grow my news vocab up to the point where I’ll be able to read without a dictionary.&lt;/p&gt;
+&lt;h1 id=&#34;outpoop&#34;&gt;Outpoop&lt;/h1&gt;
+&lt;p&gt;TLDR: I still suck and have yet to speak orally.&lt;/p&gt;
+&lt;p&gt;I have tried to do some output (strictly texting) over the last year however I did that much of it - maybe 20-30 hours over the entire year. There are a few reasons for this, which I don’t really think most people care for, so I won’t go into them, but I have definitely improved big time over the last 20 to 30 hours of output. My range of grammar has grown, the things I can express have become larger, my sentences are more complicated, and some of the expressions I use feel kind of natural. I can say some things without translating in my head, and it grows the more I output, but it’s fairly limited.&lt;/p&gt;
+&lt;p&gt;Currently my focus is on pronunciation, intonation and flow (aka not getting tongue tied) - via shadowing (maybe chorusing but I don’t really like the idea of recording myself lolol) before I start actually speaking to anyone. I plan on starting with iTalki, and eventually just trying to find people around my area with shared interests because there are a decent amount of Koreans in my city. Until I start with iTalki I’ve been trying to ‘think’ more in Korean, without translation/English. I may end up writing an update post once I’ve started iTalki. IDRK!&lt;/p&gt;
+&lt;p&gt;Shadowing is one of the requirements for 3C, Refolds actual ‘Speaking Stage’. And whilst I don’t follow the roadmap to a T (or believe one should), as someone who wants to wait for output, I like how Stage 3 works and the base level one would have going into output. I know they no longer think Shadowing is a ‘Stage 3 Activity’ and that instead it should be put off until Stage 4, with chorusing replacing it, but the requirements for 3C are shadowing on the website so I’ll just go with that, doesn’t really matter in the end honestly.
+Shadowing is super fucking hard for me, much harder than chorusing, and I am definitely no where near 60 seconds straight in native material. I can shadow for a while without mistakes in 태웅쌤 content, which is the only material I’ve actually used for shadowing, but when I try anything native I fuck up after 3 seconds. Because of this, I’ve shifted my focus for now towards pronunciation (and possibly some chorusing) before returning to 태웅쌤 shadowing and eventually slower native content. My pronunciation is extremely poor, but none of it is solidified, which means I can work on changing it with limited effort.&lt;/p&gt;
+&lt;h1 id=&#34;year-three-goals&#34;&gt;Year Three Goals&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Finish 60 full length books (nearly at 35)  - non-fiction included&lt;/li&gt;
+&lt;li&gt;More regular listening&lt;/li&gt;
+&lt;li&gt;Refold Stage 4 - this means actually outputting regularly&lt;/li&gt;
+&lt;li&gt;20,000 known words&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>450 Hours Textbook Study | My Grammar Journey</title>
+      <link>http://www.langlox.com/posts/450-hours-of-grammar/</link>
+      <pubDate>Sun, 27 Aug 2023 14:44:48 +1100</pubDate>
+      
+      <guid>http://www.langlox.com/posts/450-hours-of-grammar/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s been a while.&lt;/p&gt;
+&lt;p&gt;This post is going to be pretty short, but it is the only thing I have actually committed (and finished) writing. Hopefully it&amp;rsquo;s useful for someone out there, who may be in the same place I was.&lt;/p&gt;
+&lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;
+&lt;p&gt;I started learning Korean in mid August 2021, and across the first 5 months I spend over 450 hours studying grammar using TTMIK and HTSK. I finished TTMIK in December 2021 and did 6 units of HTSK throughout those 5 months. For the first month I averaged 3-4 hours a day, and for the 5th I averaged 90 minutes. The entire time I took notes for every single lesson I did. However, I did not make any of my own sentences because I didn&amp;rsquo;t want to.
+After finishing TTMIK and HTSK, the only grammar study I did was look ups (basically searching for a short definition on google for unknown grammar found) in immersion. I did not review at all and didn&amp;rsquo;t do any practice questions or practice sentences using new grammar, whatsoever.
+Up until July 2023, lookups had been my only grammar practice following finishing TTMIK and HTSK. However in July 2023, I stumbled across Retro&amp;rsquo;s video about grammar learning in immersion circles -  here - which inspired me to start putting more deliberate effort into grammar. This effort (and the effects its had on my understanding) is the inspiration for this post.&lt;/p&gt;
+&lt;h1 id=&#34;450-hours-for-nothing&#34;&gt;450 Hours for&amp;hellip; Nothing?&lt;/h1&gt;
+&lt;p&gt;Despite the sustained focus and effort during those 450 hours, I personally believe that I did not gain 450 hours worth of learning or grammar skills during those 4-5 months. Whilst I won&amp;rsquo;t deny that it did give me a huge basis in grammar and propelled me into native reading material, looking back on the experience now as someone who is kinda-okay at Korean makes me question it all. I believe that whilst KGIU (which I have touched somewhat since July) is genuinely better than TTMIK and HTSK, and would have helped me more, and supplied me with useful grammar sooner, that isn&amp;rsquo;t the main issue. The main issue, in my opinion, was my note taking. 75% of the time I spent studying grammar was writing notes. That is 377 hours of pure note taking. The time it took me to write those notes I could&amp;rsquo;ve been using the actual grammar structures/patterns with graded readers or easier video material. This would have helped me way more with reinforcing the grammar and actually learning it. Instead, I now have stacks of books I have never gone through somewhere in my house (that I forgot to throw out lol). I honestly think that whilst writing down things does help with memory, it is much more useful to actually enounter the grammar in a comprehensible setting. If I could go back I would go through KGIU and use Yonsei readers to reinforce everything I was learning.&lt;/p&gt;
+&lt;p&gt;I do not regret not doing practice questions or making my own sentences. I actually think it was for the better. Writing sentences when you have not encountered the grammar in native Korean forces a meaning on the grammar and likely reinforces any misunderstandings you have. You aren&amp;rsquo;t learning the grammar in terms of actual real Korean, you are learning in how it relates to your native language (or the language your materials teach you in) and through the lense of what you can be told it does. When you truly understand how and when a grammar structure is used in native Korean by native Koreans, in a way that sounds natural, you don&amp;rsquo;t know how to describe it. It can only be acquired through countless encounters.&lt;/p&gt;
+&lt;p&gt;I think part of the reason I had gone so hard was because I (was mentally ill, and I) genuinely enjoyed grammar study. It is pretty fun if you&amp;rsquo;re into it, which makes it hard to not just do it when it gives you easy track-able and viewable progress. It is much easier to feel like/think you are improving when you study grammar then it is to go and actually get input. I don&amp;rsquo;t think you should have to stop studying grammar if you enjoy it but it is worth it to actually immerse in comprehensible materials that will reinforce what you learn instead of taking notes or even writing sentences.&lt;/p&gt;
+&lt;h1 id=&#34;what-changed&#34;&gt;What Changed?&lt;/h1&gt;
+&lt;p&gt;As I mentioned earlier, what propelled me to put effort into grammar again was the Retro video, however what truly made me was my comprehension growth. Over the last 3 months I have noticed a huge growth in my overall comprehension specifically across videos and audio based input. I can watch videos without subtitles without a lot of effort, and encounter a few truly unknown words. With subtitles, some content feels like I am just watching with English subtitles. Because of this, I have become pretty aware of some of the gaps in my grammar knowledge. Before recent, I would have just brushed off the grammar, maybe searched it up but not really put any effort into it past that. But because I am at the stage where vocabulary isn&amp;rsquo;t really an issue outside of reading, truly tackling grammar I don&amp;rsquo;t understand at all seems like a wise decision so that I can acquire it through immersion without further effort.&lt;/p&gt;
+&lt;h1 id=&#34;what-im-doing-now-and-why-it-works&#34;&gt;What I&amp;rsquo;m doing now and why it works&lt;/h1&gt;
+&lt;p&gt;For basically my entire journey I have been pretty skeptical about using Anki for grammar regularly. However following the Retro video, I decided to download Evita&amp;rsquo;s Grammar Deck and give it a chance. I didn&amp;rsquo;t go through the deck itself, instead I went through KGIU intermediate and advanced and added any unknown grammar structures (that Evita&amp;rsquo;s deck featured) to a new deck. For grammar that did not have a card already, I made one. These cards featured an example sentence/dialogue with the target grammar bolded, and a short definition on the back. This definition was kept short as a way to teach myself only the gist of the grammar, allowing me to learn it through context in immersion.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;CardExample.PNG&#34; alt=&#34;GrammarCard&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This has been way more effective for me personally, as I have been able to recognise and understand all the grammar I&amp;rsquo;ve added, in immersion. It also takes barely any time to make the cards and review them. I have spent less than an hour in the deck reviewing grammar over the past two months.&lt;/p&gt;
+&lt;p&gt;I believe that because I am not actually trying to memorise a rigid definition but rather the gist of how it feels and what it does, that has allowed me to actually acquire the grammar and notice it enough in immersion that I can use some of the structures myself. I think it also helps that I have a large enough basis in grammar that I don&amp;rsquo;t need to put really any time/effort into learning them, and my vocabulary is large enough that every situation I see it used is highly comprehensible.&lt;/p&gt;
+&lt;h1 id=&#34;final-thoughts&#34;&gt;Final Thoughts&lt;/h1&gt;
+&lt;p&gt;I do think that grammar cards could have a valuable place in someone&amp;rsquo;s priming, I do think it is situationally dependent. It should not be every single grammar you&amp;rsquo;re learning (only ones you forget) and I think only one card per grammar structure is more than enough - unless the grammar has multiple completely separate usages - because immersion better and the more cards you have the harder it&amp;rsquo;ll be to stay consistent. I also wonder how useful it would be for a beginner who is still studying grammar through a textbook/YouTube series. I personally reckon that unless it is less frequent grammar, or they are only using a deck to learn grammar, beginners wouldn&amp;rsquo;t really need to do this.&lt;/p&gt;
+&lt;p&gt;I do see myself continuing to do this for the foreseeable future with grammar that I don&amp;rsquo;t understand through context alone!&lt;/p&gt;
+&lt;p&gt;Planning on writing something in the future about my opinons on certain grammar series now that I&amp;rsquo;ve used KGIU a bit and TTMIK is paid. Hopefully it won&amp;rsquo;t take 10 months&lt;/p&gt;
+&lt;h1 id=&#34;final-thoughts-1&#34;&gt;Final Thoughts&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>10 Months | 2000 Hour Update Post</title>
+      <link>http://www.langlox.com/posts/2000-hour-update-post/</link>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.langlox.com/posts/2000-hour-update-post/</guid>
+      <description>&lt;hr&gt;
+&lt;h2 id=&#34;editors-note-202412&#34;&gt;Editors Note (2024/12):&lt;/h2&gt;
+&lt;p&gt;Originally, when I wrote this, I wanted it to be as helpful as possible to beginners learning Korean, specifically in relation to having realistic expectations about progress, however as I have improved, I don&amp;rsquo;t fully agree with my thoughts and advice from this period of my life. If you are seeking to learn something from my posts, my later posts are of more use.&lt;/p&gt;
+&lt;p&gt;Further, my statistics in relation to my comprehension and how much I knew was weak. This is important to note as some of the comprehension statistics I refer to throughout the post are not fully accurate if they reflect the past, pre June 2022 (When I got Migaku which gave me statistics I when writing this post).&lt;/p&gt;
+&lt;p&gt;I have an entire post where I reflect on this post if you are interested in how I feel about my level 10 months in with the perspective of someone who has significantly improved&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Warning, this is a long post.  Hopefully if you get through all of it you will take something from it.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Please take this all with a grain of salt. What I&amp;rsquo;ve done isn&amp;rsquo;t necessarily efficient, and some of it might not work for you, which is totally fine. Take what you want from it. I am not a Korean god (yet), so my opinions may have changed in the future. This is also the &lt;em&gt;first&lt;/em&gt; language I&amp;rsquo;ve learnt.&lt;/p&gt;
+&lt;p&gt;Outside of time tracking I did not track monthly process, so I do not have insight on where I saw improvements in certain aspects. I can only provide you with where I am at now and share my struggles through the perspective I have now gained. I do feel as though it may be worth keeping track of your actual progress in relation to how it feels, how much you&amp;rsquo;ve gained, what you are struggling with, or are no longer struggling with. Write it down. Trust me, it may serve you well in the future.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;a-brief-summary&#34;&gt;A Brief Summary&lt;/h1&gt;
+&lt;p&gt;When referring to my level of understanding in this post, I use percentages. For instance; &amp;lsquo;20% word comprehension&amp;rsquo; would refer to knowing 1/5 words. I regularly bring up my comprehension as it can change from domain (genre/type of media) and from medium to medium.&lt;/p&gt;
+&lt;p&gt;I have been actively learning Korean for 10 months as of the time I reached 2000 total hours with the language. I started in August 2021, which would make it 13 months, but due to a 3 month break (as a result of burnout and mental health issues) I have only spent 10 months with the language.&lt;/p&gt;
+&lt;p&gt;As of September 2022, I can understand vlogs, livestreams and dramas. For dramas, I can watch any without the help of English subtitles or lookups but struggle in certain situations such as courtroom and medical scenes due to my limited vocabulary. However, my comprehension has a large drop without subtitles, which is my main focus now.&lt;/p&gt;
+&lt;p&gt;My vocabulary is around 5000 to 6000 lemmas (lemmas are the dictionary form of a word). Almost all of my vocabulary learning has been supplemented with Anki.&lt;/p&gt;
+&lt;p&gt;I have read nearly 20 novels, totalling over 1 million words, in Korean. This ranges from Harry Potter to YA to webnovels. I have also read over 20 webtoons however I have not finished a lot of them if they were ongoing at the time of reading.&lt;/p&gt;
+&lt;p&gt;In terms of textbook study, by December 2021, I had finished all 10 TTMIK levels and the first 6 HTSK units.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;grammar&#34;&gt;Grammar&lt;/h1&gt;
+&lt;p&gt;I love grammar. It is immensely fun to read about and study. I love it to the point that I spent over 400 hours between August 2021 and January 2022 studying it.&lt;/p&gt;
+&lt;p&gt;To be completely blunt, I regret most of it. It was a genuine waste of time. Especially taking notes. Note-taking would 2x, 3x, sometimes even 4x the time it would&amp;rsquo;ve taken me to study a lesson if I hadn&amp;rsquo;t taken them (or instead made short Anki cards instead). Despite studying grammar intensively, as I got further into grammar books and the grammar I was studying became less common (and thus I was encountering them less often during input sessions) they became harder to remember and thus I unfortunately forgot most of the grammar I had learnt. I had spent all this time on grammar I didn&amp;rsquo;t even recall no matter how many encounters I had with it during input.&lt;/p&gt;
+&lt;p&gt;I remember someone saying something that I feel applies to this situation; &amp;lsquo;If you cannot remember something now, no matter how hard you try, then you are not at that level yet.&amp;rsquo; This applies to grammar as well. Just because you&amp;rsquo;re learning a structure from a curriculum you&amp;rsquo;re following doesn&amp;rsquo;t mean you are at the level to utilise it. Basically, if you cannot remember something, you likely do not need it yet. This is why input is important, it is &lt;em&gt;how&lt;/em&gt; you learn.&lt;/p&gt;
+&lt;p&gt;I still learn grammar now, just in a different way. Rather than studying a curriculum, I use lessons as almost a dictionary. If I encounter a structure that I don&amp;rsquo;t remember, understand or know while reading or watching something, I will search it up. Then I will just continue consuming that media. I believe that this is the best approach to grammar past the stage where you&amp;rsquo;ve covered all the fundemental, essential grammar.&lt;/p&gt;
+&lt;p&gt;Trying to memorise grammar past the most basic structures will just make you frustrated and take away the time you could be spending doing other more beneficial things. I learnt this the hard way. There’s no use studying a bunch of new structures if you don’t have the time to go and see it (in books, shows, the real world, etc) If you want to study grammar, by all means do it, but after a certain point, the benefits that you once saw start to lessen.&lt;/p&gt;
+&lt;p&gt;My current set up for learning grammar is searching it up on google and looking for HTSK first. If there isn’t an option for HTSK or it isn&amp;rsquo;t helpful, I’ll look at Hello Native, random Tumblr blogs, Billy GO (usually too long though), etc. If it helps you, you can always write down the sentence you found the grammar from and then the basic idea of the grammar structure. You can also make grammar cards for harder, more nuanced structures (I have less than 10).&lt;/p&gt;
+&lt;p&gt;What I’ve noticed is there is a big misconception on the prioritisation of grammar. One that I fell into myself. After you have studied and understand (to a basic degree) the fundamentals, grammar doesn&amp;rsquo;t need to be, and shouldn&amp;rsquo;t be, a priority. It is the easiest battle to face, making it easy to focus on, but that also means that when you finish it, everything else you neglected will be so much harder than it needed to be. I think that a lot of people are affected by this in some form; feeling disappointed, frustrated, angry or even quitting. There are people who will spend years focused soley on studying grammar only for some kid who&amp;rsquo;s been learning for 5 months to understand more of a Kdrama or YouTube video or conversation than them. My focus on grammar lead to my vocabulary severely lacking for the hours I committed to Korean. Currently, I personally believe that deliberate grammar study is one of the &lt;em&gt;least&lt;/em&gt; important things past the fundamentals.&lt;/p&gt;
+&lt;p&gt;In terms of my own grammar abilities, I believe that reading has been the most beneficial thing to my grammar. The pure amount of exposure you get mixed in with having longer, more complex sentences gave me both a bigger variety and enabled me to be able to see and interact with the same structures in a large variety of different contexts. This allowed me to better understand how certain structures functioned and how Korean as a whole functioned.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;vocabulary&#34;&gt;Vocabulary&lt;/h1&gt;
+&lt;p&gt;I constantly see people neglect it. Heck I neglected it for over a thousand hours (Editiors Note: and I continued to neglect it for nearly a year after writing this post originally lmao). I&amp;rsquo;ve only really cared about building it over the last 500 to 600 hours! Vocabulary is hard, and one of the reasons it is so hard is because it is a never ending battle. At least with grammar, there will be a poitn where you rarely run into new structures when watching/reading something. But that point with vocabulary takes 100 times as long. Why? Because Korean has over a million words, natives know tens of thousands of them, and it takes you longer to learn the words that make up a native vocabulary than it takes you to learn all grammar natives use.&lt;/p&gt;
+&lt;p&gt;While I have always struggled with learning vocabulary, what has helped me the most was Anki (a flashcard app). I think how you set up and use Anki can be make or break. Pre-mades did help me and self-made vocabulary cards were okay, however when I started sentence mining it became significantly easier to learn vocabulary compared to using lists and books. Anki&amp;rsquo;s ability to space out your flashcard reviews depending on how well you recall the card (Editors Note: which is even better with FSRS) is extremely useful.  It attempts to show you cards &lt;em&gt;right before&lt;/em&gt; you would’ve forgotten them, therefore refreshing your memory and helping that card get into your long term memory.&lt;/p&gt;
+&lt;p&gt;Vocabulary makes everything easier: listening, reading, writing, speaking, even learning grammar. However, it will likely also be your biggest struggle when learning Korean. Your own language-learning Alps. It&amp;rsquo;s frustrating but if you are able to httpstolerate ambiguity (not understanding what is said/happening) then it will become easier for you as you learn new words.&lt;/p&gt;
+&lt;p&gt;There are multiple types of vocabulary. Active vocabulary and passive vocabulary. Almost all of my vocabulary falls into the latter group. Passive vocabulary is vocabulary which you acquire through input. It is the vocabulary you understand when you listen or read or someone talks to you. All active vocabulary should also be passive vocabulary (at least if you understand the word you&amp;rsquo;re using). Active vocabulary is the vocabulary you are able to actively recall and produce; the vocabulary you use when speaking and writing. Seeing a word makes it easier for that word to become active, and in some cases, enough exposure can lead to you being able to actively recall it, however for a lot of vocabulary the only way for it to be &amp;lsquo;activated&amp;rsquo; is by using it. As a beginner, your active vocabulary doesn&amp;rsquo;t matter. Only your passive does. Even if you want to speak to natives at the beginning, &lt;em&gt;focus on passive, not active&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;What a lot of people misunderstand is how &lt;em&gt;little&lt;/em&gt; 6,000 word sactually is. I can understand maybe 95% to 98% of vlogs (which uses some of the easiest content out there, vocabulary wise) and dramas (I discuss this more later), however the last 5% to 2% is not just another thousand words. It could be another 5000 words, 15000 words, maybe more. This is the hardest part. Realising that every word you learn equates to less than the word before it.&lt;/p&gt;
+&lt;p&gt;Vocaublary is one of the reasons true fluency still takes years to reach even if you&amp;rsquo;re studying more than 10 hours a day. Vocabulary requires patience and kindness to oneself. You will forget things. There will be week and months where you feel as though your comprehension hasn&amp;rsquo;t increased. Don&amp;rsquo;t underestimate the time it takes to grow your vocabulary, nor the amount of vocabulary you need. It is not an overnight thing. It&amp;rsquo;s not only about the hours (someone learning for 4 hours a day vs someone learning for 8 hours a day won’t have a drastic difference in their known words more so in their understanding of those words). It is just about commitment and consistency.&lt;/p&gt;
+&lt;p&gt;Stick with vocabulary. Keep learning.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;watching&#34;&gt;Watching&lt;/h1&gt;
+&lt;p&gt;I’ve decided to split up watching with subtitles and watching without into separate categories for a few reasons. Almost all of my time has been used with subtitles and the level I’m at with them is much higher than without them.&lt;/p&gt;
+&lt;h2 id=&#34;watching-with-korean-subtitles&#34;&gt;Watching with Korean Subtitles&lt;/h2&gt;
+&lt;p&gt;So, how much time have I put into it?&lt;/p&gt;
+&lt;p&gt;688 hours.&lt;/p&gt;
+&lt;p&gt;The majority of this time has been invested into watching K-dramas without the use of regular lookups (only when I really want to, or feel like I &lt;em&gt;need&lt;/em&gt;) To give you an idea of my understanding, when watching Extraordinary Attorney Woo Young Woo I was able to follow along all of the story line and plot points outside of the courtroom scenes, and could somewhat understand the courtroom scenes without the help of English subtitles. Using Refold levels, my comprehension was about Level 4, but I could occasioanlly hit Level 5 comprehension depending on the scene (this applies to all shows). On Extraordinary Attorney Woo Young Woo I had around a 96% to 97% word comprehension (which aligns with the Refold level 4 example, which is 97%).&lt;/p&gt;
+&lt;p&gt;Nevertheless, I can comfortably watch Korean shows, videos, etc with subtitles without any major problems.&lt;/p&gt;
+&lt;p&gt;At this point, what I have struggled with the most hasn&amp;rsquo;t been ambiguity but rather lack of interest. I don&amp;rsquo;t relaly like k-dramas that much (despite the time I have spent watching them) and there are so many times I can rewatch the same 3 k-dramas before I ruin them or they become even less efficient to learn from. I have been able to engage with k-dramas however it&amp;rsquo;s nto necessarily enjoyable.&lt;/p&gt;
+&lt;p&gt;This leads to why I am even watching k-dramas then. They are just more enjoyable than YouTube or other mediums of gianing listening input.&lt;/p&gt;
+&lt;p&gt;Finding content you enjoy is important. Especially when you are going to commit thousands of hours of your life to learning Korean just to get half good (coming from someone who isn&amp;rsquo;t half good). If you&amp;rsquo;re into k-pop or k-dramas then you&amp;rsquo;re lucky; there is so much content at your fingertips, take advantage of said content.&lt;/p&gt;
+&lt;p&gt;Enjoyment will get you further, faster.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://inasianspaces.com/wp-content/uploads/2022/08/attorney-woo-with-the-other-whales.png?w=1200&#34; alt=&#34;Extraordinary Attorney Woo&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;watching-without-korean-subtitles&#34;&gt;Watching without Korean Subtitles&lt;/h2&gt;
+&lt;p&gt;When looking at my listening, what I’ve noticed, and what I’m currently working on, is that it is pretty horrible compared to my reading. For the shows I have been using to improve my listening skills with; Running Man and Move to Heaven, I would say that I recognise just over half the words used and understand some sentences. I would say I have around a 60% to 70% word comprehension (Editors note: I disagree with this). I believe one of the reasons that holds me back from understanding more is the speed at which people talk (brain slow).&lt;/p&gt;
+&lt;p&gt;On certain YouTube videos, without subtitles my comprehension is higher; closer to 85% word comprehension (Editors note: I disagree with this as well) in certain media. This is partically because of the easier and clearer audio and the higher comprehension with subtitles.&lt;/p&gt;
+&lt;p&gt;What has helped me the most with the struggle that comes with the lack of understanding is rewatching shows (Move to Heaven) and watching engaging content (Certain episodes of Running Man, some YouTubers, etc). I also watched shows like Pokemon without subtitles ages ago, and could follow along.&lt;/p&gt;
+&lt;p&gt;As of hitting 2,000 hours my main priority has been listening. One of my motivations (as of October) has been Overwatch 2. I live in Australia, and am working towards playing with Koreans. That goal alone has helped me a lot in immersing without subtitles during October!&lt;/p&gt;
+&lt;p&gt;I touch more on my thoughts about pure listening and watching without subtitles later.&lt;/p&gt;
+&lt;h1 id=&#34;reading&#34;&gt;Reading&lt;/h1&gt;
+&lt;p&gt;The first time I ever read in Korean was in late December 2021. It was a thriller web novel, way above my ability, in which I probably understood 20% of. Either way, I ended up finishing it (for context there were over 70 chapters, and over 100k words). I believe finding enjoyment in what you’re engaging in is important. Especially with reading, where you are purely guided by yourself. Everyone needs a balance between comprehension and interest. Obviously my comprehension was too low, but I believe that what I gained from finishing that book was more important than higher comprehension. It was a realisation that I could enjoy reading in Korean, despite my poor understanding. It was also the empowering feeling of finishing it.&lt;/p&gt;
+&lt;p&gt;Personally, I really wish that I had committed time to reading easier material. Things like graded readers, webtoons, slice of life content such as blog posts, etc. If you&amp;rsquo;re looking to start reading, that&amp;rsquo;s what I recommend. However if it is too boring for you, to the point where you aren’t learning from it or you’re not learning as long as you could be, then I think it’d be worth trying something different.  Maybe that’s trying new material, even if it&amp;rsquo;s harder, or if you can’t find anything you enjoy, maybe it’s just worth putting it off.&lt;/p&gt;
+&lt;p&gt;Understanding content can be the make or break of your language journey. If you don’t understand enough you might feel too demotivated to continue learning. If you notice that your progress is “slowing” down, that might also be demoviating. Either way, we need to find a middle ground where we are still inputting but not to the point of demotivation. Input is needed to improve, but you can’t improve if you have quit.&lt;/p&gt;
+&lt;p&gt;Part of the difficulty in reading is there are more words that you won&amp;rsquo;t know. This is one of the reasons I put it off as it was demotivating and too challenging. If you feel this way about reading, then it&amp;rsquo;s completely reasonable to put it off. But it is also not worth limiting yourself. Try graded readers or material made for learners or extremely simple childrens books. You can also use subtitles as your form of reading as I did. (However I do not think you should put off listening and watching content).&lt;/p&gt;
+&lt;p&gt;Currently I have read novels for around 294 hours and 109 hours for comics, webtoons, manhwa, etc. Personally I do not enjoy webtoons; they feel mindless. I usually read with them without lookup up words or creating cards. However when I read novels I do look up vocabulary and sentence mine (creating vocabulary cards using the a sentence from input). At this point, all my intensive immersion is done through reading novels. I still occasionally watch content intensively but not as much as I used to. The majority of my vocabulary does come from reading, whether indirectly or directly. I also believe a lot of my general sense related to grammar (understanding what sounds awkward, identifying patterns etc) comes from reading.&lt;/p&gt;
+&lt;p&gt;Books can vary wildly in terms of the level of understanding. This is usually because of words but occasionally it has to do with grammar or general knowledge on the subject. Because of this reason, whilst I’ve found some books that are not very challenging to read, there are also books I’ve read in the past that are still hard for me now.&lt;/p&gt;
+&lt;p&gt;A book most people have read is Harry Potter. Whilst aimed at a younger audience (around the 11-12 range), the series is still a gold mine for a learner of any language. There are around 7,000 unique words in the first book, Harry Potter and the Philosopher&amp;rsquo;s Stone. When looking back on the book now, I my comprehension can vary across the 90% range (occasionally dropping belong and sometimes hitting 97%-ish). This is much higher than when I first read it (closer to 70% is my estimate). The great thing about the Harry Potter series is that each book is harder than the last as it “grows up” with the target audience which means that if you read it at a high comprehension you will continue to learn consistently as you read the series.&lt;/p&gt;
+&lt;p&gt;Outside of Harry Potter, everything else I’ve read has either been targeted at native teenagers or adults.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://img.buzzfeed.com/buzzfeed-static/static/2017-10/13/12/asset/buzzfeed-prod-fastlane-03/sub-buzz-17700-1507913974-10.png?downsize=700%3A%2A&amp;amp;output-quality=auto&amp;amp;output-format=auto&#34; alt=&#34;Harry Potter the GOAT&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The last book I was reading as of hitting 2.000 hours was 안락 (Comfort). Picking a random page, I have around a 90% comprehension (this is based off of 80 words (so 8/80 unknown), for all I know it could be way lower). Whilst this is significant (it is below the recommended level for extensive reading), at the same time compared to what I was reading at the start, 90% comprehension is great. For context, 안락(Comfort) is a book aimed at adults and covers more heavy, family-oriented topics.&lt;/p&gt;
+&lt;p&gt;I believe my reading skills have improved relatively quickly, even with the unknown words. I don&amp;rsquo;t necessarily struggle with reading, nor is it a hassle. If anything I find the experience relaxing and enjoyable (which has likely impacted my ability to engage in listening input as of late).&lt;/p&gt;
+&lt;p&gt;For those interested, I do believe one of the hardest parts about reading is finding a middle ground (as I mentioned earlier). At the beginning stage, it is extremely hard to find something you enjoy but also something you can actually comprehend. When you add on the addition of sentence mining, it gets tricky. 90% comprehension in a book you enjoy is pretty good, but mining with 90% comprehension is hard. On top of that, figuring out what you want to take away from your book is important. That includes setting goals. I’ve started to implement that more into my reading and general learning now. For instance, as I have read Harry Potter before, and know the story, it is the perfect series for me to extensively read. But I have been intensively reading it due to my lower comprehension, which isn&amp;rsquo;t ideal.&lt;/p&gt;
+&lt;p&gt;My basic recommendation for reading novels (and short stories) targeted at natives is picking something you’ve read (or seen) before. It can make up for the lack of comprehension and if you know the story well enough, it’s a great environment to progress at a relatively fast pace given the circumstances being less than ideal.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;reading-vs-listening---what-do-i-feel-is-important-at-the-beginning&#34;&gt;Reading VS Listening - What do I feel is important at the beginning?&lt;/h1&gt;
+&lt;p&gt;I am specifically talking about listening with no subtitles VS reading anything as watching content with Korean subtitles improves your reading more than it improves your listening skills.&lt;/p&gt;
+&lt;p&gt;The short answer is reading.&lt;/p&gt;
+&lt;p&gt;I believe that it honestly doesn&amp;rsquo;t matter how much time you dedicate at the start to lilstening. You should dedicate some time, but realistically, the time you get from listening is less than what you will gain once you have a good foundation in reading (even if its subtitles) and are able to understand the listening content with subtitles. This may have to do with vocabulary, but also just general exposure to the language. It&amp;rsquo;s easier to learn and remember vocabulary, grammar, language patterns and phrases, etc, when you have the aid of subtitles (and the ability to go at your own pace). It&amp;rsquo;s harder to grow the vocabulary you need to properly learn how to hear Korean when you don&amp;rsquo;t have a good vocabulary base in the first place.&lt;/p&gt;
+&lt;p&gt;I would personally say that there should be a focus on watching with subtitles at the start, with a supplement of pure listening (no subtitles/transcript) and when the person is ready, starting to read easier materials (graded readers, webtoons, etc).&lt;/p&gt;
+&lt;p&gt;In short I believe that pure listening should be done, but not be the focus until you are at a leel where every other part of your Korean is strong. I have had more listening improvements nwo than when I started because I now possess a stronger (and larger) foundational Korean level.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;my-main-takeaway&#34;&gt;My Main Takeaway&lt;/h1&gt;
+&lt;p&gt;This stuff takes a while. But that’s okay. I think because of the time I commit to learning, coming to accept the reality that this will genuinely take way longer than anticipated to touch a native-like level has been easier than it might’ve if I was only committing a few hours.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;closing-thoughts-future-plans-goals-and-everything-else&#34;&gt;Closing Thoughts, Future Plans, Goals, and Everything Else&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;final-takeaways&#34;&gt;Final Takeaways&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Just. Immerse. Bro.&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;extra&#34;&gt;Extra&lt;/h1&gt;
+&lt;p&gt;Following the tragedy in Itaewon, I felt as though I should say something in this post. I hold the deepest condolences for the victims and those affected. I hope all the family, friends, coworkers, partners, and anyone who knew the victims as well as the survivors eventually find peace and heal. May the victims rest in peace.&lt;/p&gt;
 </description>
     </item>
     
