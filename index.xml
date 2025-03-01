@@ -2,30 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LangLox - The Ultimate Korean Learning Blog</title>
-    <link>http://www.langlox.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on LangLox - The Ultimate Korean Learning Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.langlox.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>[REFLECTION] 10 Months &amp; 2000 Hour Learning Korean</title>
-      <link>http://www.langlox.com/posts/a-reflection-on-my-2000-hour-post/</link>
-      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.langlox.com/posts/a-reflection-on-my-2000-hour-post/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>3 Year Update</title>
-      <link>http://www.langlox.com/posts/test/</link>
+      <link>http://localhost:1313/posts/test/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://www.langlox.com/posts/test/</guid>
+      <guid>http://localhost:1313/posts/test/</guid>
       <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
 &lt;p&gt;This is by far my longest post despite the fact that some people may assume that I would&amp;rsquo;ve made less progress. I think I have improved more overall this year than I did in the previous two. It also goes into more detail than I ever have and hopefully serves as a good glimpse into not just what has happened in the last 12 months but what it actually feels like at my current level - input wise specifically (still can&amp;rsquo;t output lol).&lt;/p&gt;
 &lt;h2 id=&#34;recap&#34;&gt;Recap&lt;/h2&gt;
@@ -457,10 +448,10 @@ Last year I had 3 pieces of content with 100% word comprehension - excluding mus
     
     <item>
       <title>2 Year Update Post</title>
-      <link>http://www.langlox.com/posts/2-year-update-post/</link>
+      <link>http://localhost:1313/posts/2-year-update-post/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://www.langlox.com/posts/2-year-update-post/</guid>
+      <guid>http://localhost:1313/posts/2-year-update-post/</guid>
       <description>&lt;h1 id=&#34;preface&#34;&gt;Preface&lt;/h1&gt;
 &lt;p&gt;Below is context for things I’ll be consistently referencing throughout the post, which understanding will likely clear some things up!&lt;/p&gt;
 &lt;h2 id=&#34;refold&#34;&gt;Refold:&lt;/h2&gt;
@@ -543,10 +534,10 @@ Shadowing is super fucking hard for me, much harder than chorusing, and I am def
     
     <item>
       <title>450 Hours Textbook Study | My Grammar Journey</title>
-      <link>http://www.langlox.com/posts/450-hours-of-grammar/</link>
+      <link>http://localhost:1313/posts/450-hours-of-grammar/</link>
       <pubDate>Sun, 27 Aug 2023 14:44:48 +1100</pubDate>
       
-      <guid>http://www.langlox.com/posts/450-hours-of-grammar/</guid>
+      <guid>http://localhost:1313/posts/450-hours-of-grammar/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s been a while.&lt;/p&gt;
 &lt;p&gt;This post is going to be pretty short, but it is the only thing I have actually committed (and finished) writing. Hopefully it&amp;rsquo;s useful for someone out there, who may be in the same place I was.&lt;/p&gt;
 &lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;
@@ -574,10 +565,10 @@ Up until July 2023, lookups had been my only grammar practice following finishin
     
     <item>
       <title>10 Months | 2000 Hour Update Post</title>
-      <link>http://www.langlox.com/posts/2000-hour-update-post/</link>
+      <link>http://localhost:1313/posts/2000-hour-update-post/</link>
       <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://www.langlox.com/posts/2000-hour-update-post/</guid>
+      <guid>http://localhost:1313/posts/2000-hour-update-post/</guid>
       <description>&lt;hr&gt;
 &lt;h2 id=&#34;editors-note-202412&#34;&gt;Editors Note (2024/12):&lt;/h2&gt;
 &lt;p&gt;Originally, when I wrote this, I wanted it to be as helpful as possible to beginners learning Korean, specifically in relation to having realistic expectations about progress, however as I have improved, I don&amp;rsquo;t fully agree with my thoughts and advice from this period of my life. If you are seeking to learn something from my posts, my later posts are of more use.&lt;/p&gt;
